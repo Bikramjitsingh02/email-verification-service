@@ -40,7 +40,7 @@ public class FeedbackController {
         javaMailSender.setPassword(emailConfigration.getPassword());
         javaMailSender.getJavaMailProperties();
 
-
+        //this is for no use just added to see the changes in the file in the github repository
 
         //create simple email message
 
